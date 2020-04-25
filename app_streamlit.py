@@ -6,7 +6,7 @@ import matplotlib
 matplotlib.use('Agg')
 import seaborn as sns
 
-# Definiando a função principal
+# Definindo a função principal
 def main():
     
     # Carregando a imagem de título e definindo o texto do header
