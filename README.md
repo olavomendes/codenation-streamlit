@@ -16,4 +16,4 @@ Para utilizá-lo, você vai precisar de **Python 3.6** ou acima e das seguintes 
 - Seaborn
 
 Além do framework **Streamlit** que pode ser facilmente instalado com o comando ```pip install streamlit```.
-Depois, basta selecionar o arquivo *.csv* e começar a analisar.
+Depois é só abrir um terminal, entrar na pasta onde você baixou o arquivo e digitar o comando ```streamlit run app_streamlit.py```;
